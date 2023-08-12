@@ -1,8 +1,5 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
-export default {
-  target: 'static',
-  generate: {subFolders: true},
-  router: {
-    base: '/nuxt3-link-test/'
+export default defineNuxtConfig({
+  app: {
+    cdnURL: '/nuxt3-link-test/'
   }
-}
+})
