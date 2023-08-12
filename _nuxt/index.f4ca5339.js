@@ -1,0 +1,1 @@
+import{_ as o}from"./nuxt-link.e989511c.js";import{_ as n,c,b as _,w as a,a as e,o as s,d as r}from"./entry.83bdaf24.js";const l={},d=e("h1",null,"Top Page",-1),i=e("hr",null,null,-1);function u(p,f){const t=o;return s(),c("div",null,[d,i,_(t,{to:"/price"},{default:a(()=>[r("Price")]),_:1})])}const h=n(l,[["render",u]]);export{h as default};
